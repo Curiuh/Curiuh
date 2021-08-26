@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Curiuh
-- 👀 I’m interested in working on game developing specially with C, C++ or Python
-- 🌱 I’m currently learning Python and C#
+- 👀 I’m interested in working on app developing specially with C, C++ or Python
+- 🌱 I’m currently learning JavaScript and C#
 - 📫 contact email: curiuh48@gmail.com
 
 <!---
